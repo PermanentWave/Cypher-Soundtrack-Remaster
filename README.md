@@ -1,5 +1,5 @@
-# Cypher Soundtrack Remaster
-- This is the unofficial Remaster Soundtrack of Cypher [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
+# About
+- This is the Unofficial Remaster Soundtrack of Cypher [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
 
 # Credit
 - All Game Developed by Matthew Brown
