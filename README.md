@@ -1,8 +1,8 @@
 # About
 - This is the Unofficial Remaster Soundtrack of Cypher [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
 
-# Credit
-- All Game Developed by [Matthew Brown](https://store.steampowered.com/app/746710/Cypher/)
+# Credit / Thanks
+- All Game Developed by Matthew Brown [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
 - All music based on MIDI transcriptions by Bernd Kruger [http://www.piano-midi.de/](http://www.piano-midi.de/)
 - Music Remaster by PermanentWave
 
