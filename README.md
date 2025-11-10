@@ -1,7 +1,17 @@
 # About
 - This is the Unofficial Remaster Soundtrack of Cypher [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
+- Official Soundtrack is [here](https://youtu.be/xQ6eUw75DhA?si=F39ToYMH2yoz729p)
 
 # Credit / Thanks
+- Composer
+  - Claude Debussy: Tr.1
+  - Ludwig Van Beethoven: Tr.2, 7, 11, 13
+  - Edvard Grieg: Tr.3, 8
+  - Wolfgang Amadeus Mozart: Tr.4, 12, 14
+  - Robert Schumann: Tr.5
+  - Franz Liszt: Tr.6
+  - Franz Schubert: Tr.9
+  - Felix Mendelssohn: Tr.10
 - All Game Developed by Matthew Brown [Steam Link](https://store.steampowered.com/app/746710/Cypher/)
 - All music based on MIDI transcriptions by Bernd Kruger [http://www.piano-midi.de/](http://www.piano-midi.de/)
 - Music Remaster by PermanentWave
