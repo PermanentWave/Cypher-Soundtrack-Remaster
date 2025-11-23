@@ -19,7 +19,7 @@
 # Equipment
 - Cakewalk
 - Synchron Pianos YAMAHA CFX
-- iZotope Ozone 12 EQ
+- Plugin Alliance Kirchhoff-EQ
 - Voicemeeter Banana
 
 # Licence
